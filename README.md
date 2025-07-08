@@ -1,21 +1,33 @@
 <div align="center">
 
-# Nyphrux
-Hi! Im nyphrux, I am an experienced software dev, game cheat dev and utility dev.
+# 💀 Nyphrux
+
+Hi, I'm **Nyphrux** — an experienced software developer, cheat developer, and utility creator.  
+I specialize in reverse engineering, game hacking, and crafting tools that push limits.
 
 ---
 
-# Languages
-I am experienced in the following coding languages...
+## 💻 Languages & Technologies
 
-[![Web Dev Languages](https://skillicons.dev/icons?i=js,css,html)](https://skillicons.dev)
+### 🌐 Web Development  
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-[![Dev Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python)](https://skillicons.dev)
+### 🧠 General Development  
+[![Dev Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,c)](https://skillicons.dev)
 
 ---
 
-# Contact Me
+## 📬 Contact
 
+Want to reach out? Click below to add me on Discord:  
 [![Add me on Discord](add-me-on-discord.png)](https://discord.gg/JMpJPmSC)
 
 ---
+
+## 📦 Projects
+
+- [placeholder](https://nyphrux/a-repo) – description
+
+---
+
+</div>

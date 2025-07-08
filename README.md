@@ -20,7 +20,7 @@ I specialize in reverse engineering, game hacking, and crafting tools that push 
 ## 📬 Contact
 
 Want to reach out? Click below to add me on Discord:  
-[![Add me on Discord](add-me-on-discord.png)](https://discord.gg/JMpJPmSC)
+[![Add me on Discord](assets/add-me-on-discord.png)](https://discord.gg/JMpJPmSC)
 
 ---
 

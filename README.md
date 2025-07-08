@@ -28,6 +28,4 @@ Want to reach out? Click below to add me on Discord:
 
 [placeholder](https://nyphrux/a-repo) – description
 
----
-
 </div>

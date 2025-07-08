@@ -2,7 +2,7 @@
 
 # 💀 Nyphrux
 
-Hi, I'm **Nyphrux** — an experienced software developer, cheat developer, and utility creator.  
+Hi, I'm **Nyphrux** - an experienced software developer, cheat developer, and utility creator.  
 I specialize in reverse engineering, game hacking, and crafting tools that push limits.
 
 ---
@@ -10,10 +10,10 @@ I specialize in reverse engineering, game hacking, and crafting tools that push 
 ## 💻 Languages & Technologies
 
 ### 🌐 Web Development  
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js)](https://github.com/nyphrux)
 
 ### 🧠 General Development  
-[![Dev Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,c)](https://skillicons.dev)
+[![Dev Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,c)](https://github.com/nyphrux)
 
 ---
 

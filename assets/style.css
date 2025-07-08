@@ -1,0 +1,102 @@
+:root {
+  --bg: #181a1b;
+  --fg: #f3f3f3;
+  --accent: #58a6ff;
+  --section-bg: #222326;
+  --section-border: #33363a;
+  --header-bg: #23272a;
+  --nav-link: #b3b3b3;
+}
+
+[data-theme="light"] {
+  --bg: #f4f4f4;
+  --fg: #222;
+  --accent: #0366d6;
+  --section-bg: #fff;
+  --section-border: #e1e4e8;
+  --header-bg: #fff;
+  --nav-link: #444;
+}
+
+* {
+  transition: background 0.4s ease, color 0.4s ease, border-color 0.4s ease;
+}
+
+.theme-transition * {
+  transition: background 0.4s ease, color 0.4s ease, border-color 0.4s ease !important;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+header {
+  background: var(--header-bg);
+  color: var(--fg);
+  text-align: center;
+  padding: 2rem 1rem 1rem 1rem;
+  position: relative;
+}
+
+.avatar {
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  border: 4px solid var(--fg);
+}
+
+nav a {
+  color: var(--nav-link);
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s;
+}
+
+nav a:hover {
+  color: var(--accent);
+}
+
+#theme-toggle {
+  position: absolute;
+  top: 1.5rem;
+  right: 2rem;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: var(--fg);
+  transition: color 0.2s;
+}
+
+main {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.section {
+  background: var(--section-bg);
+  border: 2px solid var(--section-border);
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.section h2 {
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  text-decoration: underline;
+}

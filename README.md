@@ -32,6 +32,6 @@ Want to reach out? Click below to add me on Discord:
 
 ## 📦 Projects
 
-[placeholder](https://nyphrux/a-repo) – description
+[placeholder](https://github.com/nyphrux/a-repo) – description
 
 </div>

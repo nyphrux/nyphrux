@@ -19,7 +19,7 @@ I specialize in reverse engineering, game hacking, and crafting tools that push 
 
 ## Statistics & Info
 [![Nyphrux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyphrux&show_icons=true&theme=midnight-purple)](https://github.com/nyphrux)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyphrux&show_icons=true&theme=midnight-purple&compact=true)](https://github.com/nyphrux)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyphrux&show_icons=true&theme=midnight-purple)](https://github.com/nyphrux)
 
 ---
 

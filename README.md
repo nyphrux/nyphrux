@@ -1,8 +1,11 @@
-## Hi there 👋
 <div align="center">
 
-# [nyphrux](https://nyphrux.dev)
-A skilled software developer.
+# Hi, im [nyphrux](https://nyphrux.dev)
+
+I'm skilled software developer working in Java & Python.
+
+Im the main developer for RetroCraft, a throwback game of Minecraft.
+
 
 ## Development
 [![Dev Skills](https://skillicons.dev/icons?i=python,java)](https://github.com/nyphrux)

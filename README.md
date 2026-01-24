@@ -4,7 +4,7 @@
 
 I'm skilled software developer working in Java & Python.
 
-Im the main developer for RetroCraft, a throwback game of Minecraft.
+I'm the main developer for RetroCraft, a throwback game of Minecraft.
 
 
 ## Development

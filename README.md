@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, im [nyphrux](https://nyphrux.dev)
+# Hi, I'm [nyphrux](https://nyphrux.dev)
 
 I'm skilled software developer working in Java & Python.
 

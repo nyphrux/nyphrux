@@ -1,5 +1,9 @@
 <div align="center">
 
-Err, what do I put here?
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
 
 </div>

@@ -11,5 +11,6 @@
 <table align="center">
     <tr>
         <td>"Too fast for rate limits"</td>
+        <td>"Stare into the void, and the void stares back..."</td>
     </tr>
 </table>

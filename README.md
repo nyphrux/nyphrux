@@ -7,42 +7,29 @@
 
 ---
 
-<h1 align="center">Games I make mods for:</h1>
+<h2>WHat is <i>rate limiting</i>?</h2>
 
-<h1>Gorilla Tag</h1>
-	
-I mainly make plugins/mods for Gorilla Tag as it is very easy to do and everything is directly exposed.
+Rate limiting is a strategy for limiting network traffic. It puts a cap on how often someone can repeat an action within a certain timeframe – for instance, trying to log in to an account. </br>
+Rate limiting can help stop certain kinds of malicious bot activity. It can also reduce strain on web servers. </br>
+However, rate limiting is not a complete solution for managing bot activity. </br>
 
-Here are somne of my Gorilla Tag plugins/mods:
+<h3>What kinds of bot attacks are stopped by rate limiting?</h3>
 
-<h2>Slapsy >> https://github.com/nyphrux/slapsy</h2>
+Rate limiting is often employed to stop bad bots from negatively impacting a website or application. Bot attacks that rate limiting can help mitigate include:
 
-> A silly mod allowing you to slap monkeys! </br>
-> Just slap them, and they will be slapped! It's that simple! </br>
+    - Brute force attacks
+    - DoS and DDoS attacks
+    - Web scraping
 
-> [!CAUTION]
-> This mod sends RPC packets to the server when you slap monkeys. If you are in a server using PelicanAC or send too many slaps you may get kicked, or worse, banned. Use at your own risk!
-> I am not responsible for any bans or kicks you may receive from using this mod. Please use it responsibly and have fun slapping monkeys!
-
-<h2>GorillaProt >> https://github.com/nyphrux/GorillaProt</h2>
-
-> Protects your game/user from bad stuff. </br>
-> Gorilla prot protects you from: </br>
-> - Stump Kicks </br>
-> - Crashes </br>
-> - Ban Crashes </br>
->
-> Gorilla prot also: </br>
-> - Clears cache every 60s </br>
+Rate limiting also protects against API overuse, which is not necessarily malicious or due to bot activity, but is important to prevent nonetheless.
 
 > [!NOTE] 
-> GorillaProt may be an illegal mod as it breaks some GorillaTag rules and abuses some systems implamented on purpose.
+> When bypassing rate limits, make sure you find the correct methods/variables to do so, or you might lose access to the api/app. </br>
+> Avoiding rate limits is hard and tedious. Good luck!
 
-<h1>Minecraft</h1>
-	
-I enjoy producing and distrobuting mods for minecraft, but my only project is a Meteor Client addon/plugin.
-
-Check it out: [Meteor Amethyst](https://github.com/nyphrux/meteor-amethyst-addon)
+> [!CAUTION]
+> I'm not telling you to bypass rate limits, I just do it for fun as some apps have horrible rate limit systems. </br>
+> If you do decide to do this, dont do it on a big company/app as you might get into some issues...
 
 ---
 
@@ -54,3 +41,9 @@ Check it out: [Meteor Amethyst](https://github.com/nyphrux/meteor-amethyst-addon
         <td>"Stare into the void, and the void stares back..."</td>
     </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="content/cozy-blanket-kitty.gif" height="100">
+</p>

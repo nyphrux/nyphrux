@@ -16,13 +16,16 @@ I mainly make plugins/mods for Gorilla Tag as it is very easy to do and everythi
 Here are somne of my Gorilla Tag plugins/mods:
 
 <h2>Slapsy >> https://github.com/nyphrux/slapsy</h2>
+
 > A silly mod allowing you to slap monkeys! </br>
 > Just slap them, and they will be slapped! It's that simple! </br>
+
 > [!CAUTION]
 > This mod sends RPC packets to the server when you slap monkeys. If you are in a server using PelicanAC or send too many slaps you may get kicked, or worse, banned. Use at your own risk!
 > I am not responsible for any bans or kicks you may receive from using this mod. Please use it responsibly and have fun slapping monkeys!
 
 <h2>GorillaProt >> https://github.com/nyphrux/GorillaProt</h2>
+
 > Protects your game/user from bad stuff. </br>
 > Gorilla prot protects you from: </br>
 > - Stump Kicks </br>

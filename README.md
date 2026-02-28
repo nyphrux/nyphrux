@@ -9,8 +9,7 @@
 
 <h1 align="center">Games I make mods for:</h1>
 
-<details>
-  <summary><b>Gorilla Tag</b></summary>
+<h1>Gorilla Tag</h1>
 	
 I mainly make plugins/mods for Gorilla Tag as it is very easy to do and everything is directly exposed.
 
@@ -36,16 +35,11 @@ Here are somne of my Gorilla Tag plugins/mods:
 > [!NOTE] 
 > GorillaProt may be an illegal mod as it breaks some GorillaTag rules and abuses some systems implamented on purpose.
 
-</details>
-
-<details>
-  <summary><b>Minecraft</b></summary>
+<h1>Minecraft</h1>
 	
 I enjoy producing and distrobuting mods for minecraft, but my only project is a Meteor Client addon/plugin.
 
 Check it out: [Meteor Amethyst](https://github.com/nyphrux/meteor-amethyst-addon)
-
-</details>
 
 ---
 

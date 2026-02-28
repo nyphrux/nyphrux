@@ -7,7 +7,6 @@
 
 ---
 
-<div align="center">
 <h1 align="center">Games I make mods for:</h1>
 
 <details>
@@ -47,8 +46,6 @@ I enjoy producing and distrobuting mods for minecraft, but my only project is a 
 Check it out: [Meteor Amethyst](https://github.com/nyphrux/meteor-amethyst-addon)
 
 </details>
-
-</div>
 
 ---
 

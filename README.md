@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.discordapp.com/avatars/1391792864316358726/86c78a0225b96a17118b4cc229f3ca2b.png?size=1024" alt="pfp" width="15%"/>
+    <img src="https://cdn.discordapp.com/avatars/1391792864316358726/86c78a0225b96a17118b4cc229f3ca2b.png?size=1024" alt="pfp" width="15%" style="border-radius:25%;"/>
 </p>
 
 <h1 align="center">Hey, nyphrux here!</h1>
@@ -30,6 +30,7 @@ Rate limiting also protects against API overuse, which is not necessarily malici
 > [!CAUTION]
 > I'm not telling you to bypass rate limits, I just do it for fun as some apps have horrible rate limit systems. </br>
 > If you do decide to do this, dont do it on a big company/app as you might get into some issues...
+> I take no responsibility for anything you do to any apps rate limits.
 
 ---
 

@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.discordapp.com/avatars/1391792864316358726/86c78a0225b96a17118b4cc229f3ca2b.png?size=1024" alt="pfp" width="15%" style="border-radius:25%;"/>
+    <img src="https://raw.githubusercontent.com/nyphrux/nyphrux/refs/heads/main/content/image.png" alt="pfp" width="15%"/>
 </p>
 
 <h1 align="center">Hey, nyphrux here!</h1>

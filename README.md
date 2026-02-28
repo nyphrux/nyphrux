@@ -45,5 +45,5 @@ Rate limiting also protects against API overuse, which is not necessarily malici
 ---
 
 <p align="center">
-  <img src="content\cozy-blanket-kitty.gif" height="100">
+  <img src="https://raw.githubusercontent.com/nyphrux/nyphrux/refs/heads/main/content/cozy-blanket-kitty.gif" height="100">
 </p>
